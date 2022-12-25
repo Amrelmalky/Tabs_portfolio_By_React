@@ -2,6 +2,9 @@
 
 https://amrelmalky.github.io/Tabs_portfolio_By_React/
 
+![image](https://user-images.githubusercontent.com/69693889/209480857-609b8397-e6fe-4150-bce7-a078d6d2a57e.png)
+
+
 
 
 [Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
